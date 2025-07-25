@@ -2,4 +2,3 @@ streamlit
 pymupdf
 python-docx
 deep-translator
-fitz
